@@ -1,6 +1,6 @@
 # 👋 Hola, soy Ángel
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4CAF50&lines=Hola!+Soy+Ángel;Estudiante+de+DAW;Apasionado+del+desarrollo+web;Con+estudios+previos+enASIR+y+redes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4CAF50&lines=Hola!+Soy+Ángel;Estudiante+de+DAW;Apasionado+del+desarrollo+web;Con+estudios+previos+en+ASIR+y+redes)](https://git.io/typing-svg)
 
 Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** actualmente en Málaga, aunque antes pasé por **Administración de Sistemas Informáticos en Red (ASIR)**, así que me muevo con soltura tanto en la parte de desarrollo como en el mundo de las redes y sistemas.  
 
@@ -12,7 +12,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** actualmente en Málag
 ### 🚀 Tecnologías que manejo
 - **Lenguajes:** Java, PHP, JavaScript, Python  
 - **Bases de datos:** MySQL, PostgreSQL
-- **Otras áreas:** Redes, administración de sistemas  
+- **Otras áreas:** Redes, administración de sistemas, Odoo
 
 ### 🌱 Lo que busco ahora
 Seguir aprendiendo y avanazar en mis proyectos para que reflejen lo que voy avanzando en DAW.  
@@ -20,3 +20,11 @@ Seguir aprendiendo y avanazar en mis proyectos para que reflejen lo que voy avan
 ### 📫 Cómo contactarme
 - [LinkedIn](https://linkedin.com/in/angelbarba24)  
 - Correo: angelbarba2012@gmail.com  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin: 10px;" />
+</p>
