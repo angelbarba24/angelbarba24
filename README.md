@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ángel%20%7C%20DAW&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ángel%20%7C%20FullStack+Developer&fontSize=50)
 # 👋 Hola, soy Ángel
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4CAF50&lines=Hola!+Soy+Ángel;Estudiante+de+DAW;Apasionado+del+desarrollo+web;Con+estudios+previos+en+ASIR+y+redes)](https://git.io/typing-svg)
