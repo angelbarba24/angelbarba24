@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hola, soy Ángel
 
-<!--
-**angelbarba24/angelbarba24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** actualmente en Málaga, aunque antes pasé por **Administración de Sistemas Informáticos en Red (ASIR)**, así que me muevo con soltura tanto en la parte de desarrollo como en el mundo de las redes y sistemas.  
 
-Here are some ideas to get you started:
+### 💡 Un poco sobre mí
+- Me interesa el desarrollo web y la programación en general.  
+- Disfruto creando proyectos que mezclen lo práctico con lo creativo.  
+- Vengo del mundo de la administración de sistemas, así que tengo una base sólida en redes y servidores.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías que manejo
+- **Lenguajes:** Java, PHP, JavaScript, Python  
+- **Bases de datos:** MySQL  
+- **Otras áreas:** Redes, administración de sistemas  
+
+### 🌱 Lo que busco ahora
+Seguir aprendiendo y mejorar mis proyectos para que reflejen lo que voy avanzando en DAW.  
+
+### 📫 Cómo contactarme
+- [LinkedIn](https://linkedin.com/in/angelbarba24)  
+- Correo: angelbarba2012@gmail.com  
