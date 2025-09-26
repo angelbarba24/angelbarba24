@@ -21,7 +21,7 @@ Seguir aprendiendo y avanazar en mis proyectos para que reflejen lo que voy avan
 - [LinkedIn](https://linkedin.com/in/angelbarba24)  
 - Correo: angelbarba2012@gmail.com  
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;" />
