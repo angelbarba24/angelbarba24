@@ -1,6 +1,6 @@
 # 👋 Hola, soy Ángel
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4CAF50&lines=Hola!+Soy+Ángel;Estudiante+de+DAW;Apasionado+del+desarrollo+web;Con+base+en+ASIR+y+redes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4CAF50&lines=Hola!+Soy+Ángel;Estudiante+de+DAW;Apasionado+del+desarrollo+web;Con+estudios+previos+enASIR+y+redes)](https://git.io/typing-svg)
 
 Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** actualmente en Málaga, aunque antes pasé por **Administración de Sistemas Informáticos en Red (ASIR)**, así que me muevo con soltura tanto en la parte de desarrollo como en el mundo de las redes y sistemas.  
 
@@ -11,11 +11,11 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** actualmente en Málag
 
 ### 🚀 Tecnologías que manejo
 - **Lenguajes:** Java, PHP, JavaScript, Python  
-- **Bases de datos:** MySQL  
+- **Bases de datos:** MySQL, PostgreSQL
 - **Otras áreas:** Redes, administración de sistemas  
 
 ### 🌱 Lo que busco ahora
-Seguir aprendiendo y mejorar mis proyectos para que reflejen lo que voy avanzando en DAW.  
+Seguir aprendiendo y avanazar en mis proyectos para que reflejen lo que voy avanzando en DAW.  
 
 ### 📫 Cómo contactarme
 - [LinkedIn](https://linkedin.com/in/angelbarba24)  
