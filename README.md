@@ -30,6 +30,6 @@ Seguir aprendiendo y avanazar en mis proyectos para que reflejen lo que voy avan
 - [LinkedIn](https://linkedin.com/in/angelbarba24)  
 - Correo: angelbarba2012@gmail.com  
 
-![Ángel's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)
-![Snake animation](https://github.com/tuusuario/tuusuario/blob/output/github-contribution-grid-snake.svg)
+![Ángel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-daw&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-daw&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=angel-daw&theme=tokyonight)
