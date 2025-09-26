@@ -15,13 +15,6 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** actualmente en Málag
 - **Bases de datos:** MySQL, PostgreSQL
 - **Otras áreas:** Redes, administración de sistemas, Odoo
 
-### 🌱 Lo que busco ahora
-Seguir aprendiendo y avanazar en mis proyectos para que reflejen lo que voy avanzando en DAW.  
-
-### 📫 Cómo contactarme
-- [LinkedIn](https://linkedin.com/in/angelbarba24)  
-- Correo: angelbarba2012@gmail.com  
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin: 10px;" />
@@ -29,3 +22,14 @@ Seguir aprendiendo y avanazar en mis proyectos para que reflejen lo que voy avan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin: 10px;" />
 </p>
+
+### 🌱 Lo que busco ahora
+Seguir aprendiendo y avanazar en mis proyectos para que reflejen lo que voy avanzando en DAW.  
+
+### 📫 Cómo contactarme
+- [LinkedIn](https://linkedin.com/in/angelbarba24)  
+- Correo: angelbarba2012@gmail.com  
+
+![Ángel's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)
+![Snake animation](https://github.com/tuusuario/tuusuario/blob/output/github-contribution-grid-snake.svg)
