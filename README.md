@@ -1,19 +1,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ángel%20%7C%20FullStack+Developer&fontSize=50)
-# 👋 Hola, soy Ángel
+# 👋 ¡Hola, soy Ángel!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4CAF50&lines=Hola!+Soy+Ángel;Estudiante+de+DAW;Apasionado+del+desarrollo+web;Con+estudios+previos+en+ASIR+y+redes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4CAF50&lines=Hola!+Soy+Ángel;Estudiante+de+DAW;Apasionado+del+desarrollo+web;Con+experiencia+en+ASIR+y+redes)](https://git.io/typing-svg)
 
-Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** actualmente en Málaga, aunque antes pasé por **Administración de Sistemas Informáticos en Red (ASIR)**, así que me muevo con soltura tanto en la parte de desarrollo como en el mundo de las redes y sistemas.  
+🎓 Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Málaga.  
+📡 Con formación previa en **Administración de Sistemas Informáticos en Red (ASIR)**, me muevo con soltura tanto en el desarrollo como en el mundo de las redes y sistemas.  
 
-### 💡 Un poco sobre mí
-- Me interesa el desarrollo web y la programación en general.  
-- Disfruto creando proyectos que mezclen lo práctico con lo creativo.  
-- Vengo del mundo de la administración de sistemas, así que tengo una base sólida en redes y servidores.  
+---
 
-### 🚀 Tecnologías que manejo
+## 💡 Un poco sobre mí
+- 💻 Me apasiona el desarrollo web y la programación en general.  
+- 🎨 Disfruto creando proyectos que mezclen lo práctico con lo creativo.  
+- 🛠️ Vengo del mundo de la administración de sistemas, lo que me da una base sólida en redes y servidores.  
+
+---
+
+## 🚀 Tecnologías que manejo
 - **Lenguajes:** Java, PHP, JavaScript, Python  
-- **Bases de datos:** MySQL, PostgreSQL
-- **Otras áreas:** Redes, administración de sistemas, Odoo
+- **Bases de datos:** MySQL, PostgreSQL  
+- **Otras áreas:** Redes, administración de sistemas, Odoo  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 10px;" />
@@ -23,8 +28,13 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** actualmente en Málag
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin: 10px;" />
 </p>
 
-### 🌱 Lo que busco ahora
-Seguir aprendiendo y avanazar en mis proyectos para que reflejen lo que voy avanzando en DAW.  
+---
+
+## 🌱 Lo que busco ahora
+✨ Seguir aprendiendo y **avanzar en mis proyectos**, reflejando todo lo que voy descubriendo y perfeccionando en DAW.  
+🚀 Mi objetivo es que cada proyecto sea más sólido, creativo y útil que el anterior.  
+
+---
 
 ### 📫 Cómo contactarme
 - [LinkedIn](https://linkedin.com/in/angelbarba24)  
