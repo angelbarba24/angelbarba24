@@ -30,5 +30,5 @@ Seguir aprendiendo y avanazar en mis proyectos para que reflejen lo que voy avan
 - [LinkedIn](https://linkedin.com/in/angelbarba24)  
 - Correo: angelbarba2012@gmail.com  
 
-![Ángel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelbarba24&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelbarba24&layout=compact&theme=tokyonight)
+![Ángel's GitHub stats](https://readmestats.999857.xyz/api?username=angelbarba24&show_icons=true&theme=tokyonight)
+![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=angelbarba24&layout=compact&theme=tokyonight)
