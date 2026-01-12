@@ -41,4 +41,4 @@
 - Correo: angelbarba2012@gmail.com  
 
 ![Ángel's GitHub stats](https://readmestats.999857.xyz/api?username=angelbarba24&show_icons=true&theme=tokyonight)
-![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=angelbarba24&layout=compact&theme=tokyonight)
+![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=angelbarba24)
