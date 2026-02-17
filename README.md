@@ -69,5 +69,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelbarba24&theme=tokyonight" alt="GitHub Profile Summary Card" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelbarba24&theme=tokyonight" alt="GitHub Profile Summary Card" width="75%" />
 </p>
