@@ -26,9 +26,7 @@
 
 **· Otras áreas**: Redes, administración de sistemas, Odoo
 
-<p align="center">
-[![My Skills](https://skillicons.dev/icons?i=java,php,js,ts,python,laravel,django,react,vue,angular,bootstrap,tailwind,mysql,postgres&perline=5)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,php,js,ts,python,laravel,django,react,vue,angular,bootstrap,tailwind,mysql,postgres&perline=20)](https://skillicons.dev)
 
 ---
 
