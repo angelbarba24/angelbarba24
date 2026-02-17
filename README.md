@@ -58,8 +58,8 @@
 ---
 
 ### Cómo contactarme
-* ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [angel-barba-fernandez](https://linkedin.com/in/angel-barba-fernandez{:target="_blank"})
-* ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) [angelbarba2012@gmail.com](mailto:angelbarba2012@gmail.com)
+* <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" vertical-align="middle" /> <a href="https://linkedin.com/in/angel-barba-fernandez" target="_blank">angel-barba-fernandez</a>
+* <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" vertical-align="middle" /> <a href="mailto:angelbarba2012@gmail.com">angelbarba2012@gmail.com</a>
 
 ---
 
