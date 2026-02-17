@@ -64,6 +64,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=angelbarba24&show_icons=true&theme=tokyonight&border_radius=10" alt="Ángel's GitHub stats" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angelbarba24&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" height="170" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=angelbarba24&show_icons=true&theme=tokyonight&border_radius=10" alt="Ángel's GitHub stats" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angelbarba24&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" height="180" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelbarba24&theme=tokyonight" alt="GitHub Profile Summary Card" width="100%" />
 </p>
